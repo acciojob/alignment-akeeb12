@@ -4,7 +4,7 @@ table,tr,td
 	width:500px;
 	border-spacing:1px;
 }
-table.tab2
+table.middle
 {
 	margin-top:50px;
 	height:110px;
@@ -16,7 +16,7 @@ td.right
 {
 	text-align:center;
 }
-table.tab3
+table.middle
 {
 	border:1px solid blak;
 	margin-top:40px;
