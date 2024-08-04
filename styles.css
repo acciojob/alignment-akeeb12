@@ -12,9 +12,13 @@ table
 td.right
 {
 	text-align:right;
-}td.t12-classcenter
+}td.center
 {
 	text-align:center;
+}
+td.t12-center
+{
+	text-align:left;
 }
 table.middle
 {
