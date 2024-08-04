@@ -1,4 +1,4 @@
-table,tr,td
+table.middle tr,td
 {
 	border:1px solid black;
 	width:500px;
@@ -7,7 +7,7 @@ table,tr,td
 table.middle
 {
 	margin-top:50px;
-	height:110px;
+	height:100px;
 }
 td.right
 {
